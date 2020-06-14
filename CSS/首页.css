@@ -1,0 +1,71 @@
+        .mainer{
+            background-image: url(../img/logo.jpg);
+            width:1100px;
+            border-radius: 0 0 60% 60%;
+            background-position: center;
+            height: 550px;
+            margin-top: 60px;
+            background-repeat: no-repeat;
+            margin: 0 auto;
+        }
+        .header{
+            background-image: url(../img/person.png);
+            background-position: center;
+            background-repeat: no-repeat;
+            width: 358px;
+            height:40px;
+            float: left;
+            padding-top: 30px;
+            padding-left: 60px;
+        }
+        .inner{
+            width: 450px;
+            height:100px;
+            margin: 0 auto;
+            padding-top: 150px;
+        }
+        p{
+            text-transform: uppercase;
+            letter-spacing: 0.225rem;
+            font-weight: 400;
+            font-size: 0.8em;
+            color:#ffffff;
+            float: left;
+            text-align: left;
+        }
+        .circle{
+            background-color: #ffffff;
+            border-radius: 50%;
+            background-image: url(../img/me1.jpg);
+            background-position: center;
+            background-repeat: no-repeat;
+            width: 90px;
+            height: 90px;
+            margin: 0 auto;
+        }
+        .inner1{
+            width: 100px;
+            height: 40px;
+            border-bottom: yellow;
+            border-width: 2px;
+            font-size: 16px;
+            border-style: solid;
+            text-transform: uppercase;
+            text-align: center;
+            color: yellow;
+            margin: 0 auto;
+            line-height: 40px;
+        }
+        a{
+            text-decoration: none;
+            color: yellow;
+        }
+        .to_top{
+            width: 0;
+            height: 0;
+            margin: 0 auto;
+            margin-top: 30px;
+            border-bottom: 50px solid yellow;
+            border-left: 15px solid transparent;
+            border-right: 15px solid transparent;
+        }                            
